@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "recipe-app-sanity",
+    "slug": "recipe-app-sanity",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
